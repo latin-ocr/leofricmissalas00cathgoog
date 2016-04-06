@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./leofricmissalas00cathgoog/leofricmissalas00cathgoog_0115.png"; bbox 0 0 5124 6608; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1111 581 1615 677">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1111 581 1615 677">
+     <span class='ocr_line' id='line_1_1' title="bbox 1111 581 1615 677; baseline 0 -19"><span class='ocrx_word' id='word_1_1' title='bbox 1111 581 1168 658; x_wconf 59' lang='lat' dir='ltr'><strong>we</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1192 584 1357 677; x_wconf 57' lang='lat' dir='ltr'><strong>&amp;amputo</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1381 581 1615 660; x_wconf 52' lang='lat' dir='ltr'><strong>ammantica.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1127 5069 1581 5136">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1127 5069 1581 5136">
+     <span class='ocr_line' id='line_1_2' title="bbox 1127 5069 1581 5136; baseline -0.004 -14"><span class='ocrx_word' id='word_1_4' title='bbox 1127 5071 1220 5122; x_wconf 78' lang='lat' dir='ltr'>Cursus</span> <span class='ocrx_word' id='word_1_5' title='bbox 1230 5071 1296 5122; x_wconf 77' lang='lat' dir='ltr'><strong>lunae</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1306 5086 1351 5136; x_wconf 85' lang='lat' dir='ltr'><strong>per</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1359 5069 1490 5122; x_wconf 83' lang='lat' dir='ltr'>duodecim</span> <span class='ocrx_word' id='word_1_8' title='bbox 1501 5071 1581 5136; x_wconf 60' lang='lat' dir='ltr'><strong>signa,</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 496 5209 1967 5406">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 496 5209 1967 5424">
+     <span class='ocr_line' id='line_1_3' title="bbox 497 5209 1966 5274; baseline 0.001 -13"><span class='ocrx_word' id='word_1_9' title='bbox 497 5211 600 5262; x_wconf 81' lang='lat' dir='ltr'>Litterae</span> <span class='ocrx_word' id='word_1_10' title='bbox 678 5209 1966 5274; x_wconf 69' lang='lat' dir='ltr'><strong>CMAVIR&#39;RFEOCBLKIHGQ</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 496 5250 1967 5406; baseline 0 -14"><span class='ocrx_word' id='word_1_11' title='bbox 496 5341 588 5393; x_wconf 80' lang='lat' dir='ltr'><strong>Primae</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 673 5250 1967 5406; x_wconf 73' lang='lat' dir='ltr'><strong>MALISR&#39;RPOLHLVTHRQE</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 2566 6608">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 2566 6608">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 2566 6608; baseline 0 0"><span class='ocrx_word' id='word_1_13' title='bbox 0 0 2566 6608; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
